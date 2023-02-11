@@ -6,7 +6,7 @@
 " by Hamish Stuart Macpherson
 "
 
-hi clear
+
 
 set background=dark
 if version > 580
